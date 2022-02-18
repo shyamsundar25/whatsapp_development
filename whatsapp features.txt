@@ -1,0 +1,6 @@
+author shyamsundar
+
+1.Profile code access
+2.chat screen update
+3,last seen update
+4,status for 30seconds
