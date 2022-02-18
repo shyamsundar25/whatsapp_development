@@ -4,3 +4,5 @@ author shyamsundar
 2.chat screen update
 3,last seen update
 4,status for 30seconds
+5,video status added
+6,payment added
