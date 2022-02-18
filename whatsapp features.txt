@@ -6,3 +6,6 @@ author shyamsundar
 4,status for 30seconds
 5,video status added
 6,payment added
+added notification light
+added caller tuner 
+added sharing feature
