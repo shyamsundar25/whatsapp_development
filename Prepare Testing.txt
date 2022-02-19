@@ -9,3 +9,4 @@ Software testing to Know -
 7, jenkins 
 8, Jira 
 9, Testcases , demo project
+java concepts for selenium 
