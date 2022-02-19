@@ -1,0 +1,11 @@
+Software testing to Know -
+
+1, Sql
+2, java for selenium 
+3, cucumber for selenium
+4, manual testing 
+5, agile methodlogy
+6, Git
+7, jenkins 
+8, Jira 
+9, Testcases , demo project
